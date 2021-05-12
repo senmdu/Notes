@@ -1,0 +1,30 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.6)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - SVProgressHUD (2.2.5)
+  - SwiftyMarkdown (1.2.3)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - SDWebImage
+  - SVProgressHUD
+  - SwiftyMarkdown
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - SDWebImage
+    - SVProgressHUD
+    - SwiftyMarkdown
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyMarkdown: be01b2905694bd7bfd95330cd43704bfdb978aec
+
+PODFILE CHECKSUM: 0f8fc6b72a3a53976426a00a2ed24ea04b9748ed
+
+COCOAPODS: 1.10.1
